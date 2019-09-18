@@ -20,7 +20,9 @@ PO出一張自己戴眼鏡的照片，又或是平常PO出各種生活自拍照�
 二、	資料介紹 : 
 Insta stalker： https：//www.instastalker.net/ (代替Instagram網站)，並利用爬蟲技術將資料抓下來。
 1.	選擇原因：
+
 A.	Instagram的API是要申請且需經過審核，因此我們無法在短時間內使用Instagram來分析，所以我們找了相似的網站，該網站會儲存所有公開帳號的貼文。
+
 B.	Insta stalker會顯示詳細的時間，IG只會出現日期，而且Insta stalker的貼文會按照時間排序從新的到舊的排序。
 
 三、	分析議題 : 
